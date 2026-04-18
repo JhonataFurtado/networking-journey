@@ -43,6 +43,8 @@ Este guia contém os comandos básicos para quase todos os dispositivos Cisco IO
 (config)#Ip default-gateway [IP do gateway]
 ```
 
+---
+
 ## Explicação dos Comandos
 ```Enable```
 > "Comando usado para acessar o modo privilegiado"
