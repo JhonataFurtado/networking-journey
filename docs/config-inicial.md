@@ -2,7 +2,7 @@
 
 Este guia contém os comandos básicos para quase todos os dispositivos Cisco IOS para garantir o minímo de segurança e acessibilidade
 
-## 1. Identificação e Segunrança Básica
+## 1. Identificação e Segurança Básica
 > "A identificação básica serve para gerenciamento, praticidade em encontrar problemas e monitorar a própria topologia. A segurança básica serve para assegurar que ninguém autorizado vai mexer, analisar ou hackear seu dispositivo"
 ```bash
 >Enable
