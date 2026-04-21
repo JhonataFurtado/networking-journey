@@ -73,3 +73,7 @@ Este guia contém os comandos básicos para quase todos os dispositivos Cisco IO
 | `Ip default-gateway [IP do gateway]` | Comando para adicionar um gateway padrão ao switch |
 | `copy running-config startup-config` | Comando para salvar a configuração atual na memória não volátil (NVRAM) para que persista após reinicializações |
 | `Do` | Serve para executar comandos do modo EXEC privilegiado enquanto você está em qualquer submodo de configuração |
+
+---
+
+🔗 **Navegação:** [← Voltar](./README.md) • [🏠 Início](../README.md) • [↑ Topo](#topo)
