@@ -115,4 +115,4 @@ Destination filename []? [Nome dado ao arquivo]
 
 ---
 
-🔗 **Navegação:** [← Voltar](../) • [🏠 Início](../../README.md) • [↑ Topo](./)
+🔗 **Navegação:** [← Voltar](./README.md) • [🏠 Início](../README.md) • [↑ Topo](./device-management.md)
