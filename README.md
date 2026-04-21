@@ -26,9 +26,34 @@ Atualmente, dedico meus estudos para desenvolver uma base sólida no CCNA.
 ## Projetos e Topologias em Destaque
 
 ## Estrutura do Repositório
+```bash
+.
+├── CCNA-Core/
+│   └── README.md
+├── Packet-Analysis/
+│    └── README.md
+├── docs/
+│   ├── README.md
+│   ├── cheat-sheets/
+│   │   ├── config-inicial.md
+│   │   ├── device-management.md
+│   │   ├── roteador.md
+│   │   ├── subnetting.md
+│   │   ├── switch-l2.md
+│   │   └── switch-l3.md
+│   └── topologias/
+│       ├── topologias-campus.md
+│       └── topologias-projetos.md
+├── .gitignore
+├── LICENSE
+├── README.md
+
+```
 - `/CCNA-Core`: Laboratórios práticos divididos por tópicos do currículo oficial
 - `/Packet-Analysis`: Capturas e estudos de protocolos via Wireshark
 - `/docs`: Meus "Cheat Sheets" e diagramas de topologias
+ > - `cheat-sheets/`: Comandos e configurações rápidas
+ > - `topologias/`: Diagramas de rede e arquitetura
 
 ## Contato
 - LinkedIn: 
