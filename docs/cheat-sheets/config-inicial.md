@@ -60,9 +60,9 @@ Este guia contém os comandos básicos para quase todos os dispositivos Cisco IO
 | `line console 0` | Comando para acessar a porta console do dispositivo |
 | `password [SENHA]` | Comando para adicionar uma senha a porta console do dispositivo |
 | `Login` | Comando para ativar a senha da porta console |
-| `logging synchronous` | Comando para criptografa as senhas que ficam visíveis em texto claro no show run |
+| `logging synchronous` | Impede que mensagens do console interrompam sua entrada na linha de comando |
 | `Exec-timeout 5 0` | Comando para adicionar um tempo de inatividade da sessão (5=minutos/0=segundos) |
-| `Service password-encryption` | Comando para salvar a configuração atual na memória não volátil (NVRAM) para que persista após reinicializações |
+| `Service password-encryption` | Comando para criptografa as senhas que ficam visíveis em texto claro no show run |
 | `Interface [x]` | Comando para acessar a interface do roteador |
 | `Ip address [IP] [Máscara]` | Comando para adicionar um endereço ip e máscara na interface do roteador |
 | `No shutdown` | Comando para ativar a interface do roteador |
