@@ -1,60 +1,60 @@
-# 🌐 Networking Journey | Jhonata Furtado
+<img width="1600" height="428" alt="ybersecurity icon (1)" src="https://github.com/user-attachments/assets/e73ff9ea-e7ab-49a2-afe3-d4715a3d181b" />
+
+# 🌐 Networking Journey | Jhonata Furtado | Portifolio
 ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-**Portifólio 1 | Jornada ao CCNA**
+**Cisco Infrastructure | CCNA Candidate | Python | NetDevOps | Linux | Cybersecurity | AI**
 
-Sou um entusiasta em infraestrutura de redes focado em dominar a arquitetura Cisco.
-Atualmente, dedico meus estudos para desenvolver uma base sólida no CCNA.
+I am an infrastructure and networking enthusiast focused on mastering Cisco network architecture. Currently, I dedicate my studies to building a solid foundation for the CCNA certification.
 
 ## Road to CCNA  
 - [x] **CCNA 1** Introduction to Networks
 - [x] **CCNA 2** Switching, Routing, and Wireless Essentials
-- [ ] **CCNA 3** Enterprise Networking, Security, and Automation (Em andamento)
-- [ ] **Automação** Python and Ansible (Futuro)
+- [x] **CCNA 3** Enterprise Networking, Security, and Automation
+- [ ] **Automation** Python and Ansible (In progress)
+- [ ] **IA** Network Intelligence (In progress)
+- [ ] **Technical English** B1 Level (In progress)
+- [ ] **Technical English** B2 Level (Planned)
 
-## Tecnologias & Ferramentas
+## Technologies & Tools
 - **Networking** Cisco IOS, Subnetting (VLSM), VLANs, OSPF
-- **Simulação** Packet Tracer
-- **Sistemas** Linux CLI (Em desenvolvimento), Windows Server (Futuro)
-- **Monitoramento** Wireshark Análise de pacotes Básica (Em desenvolvimento)
-- **Automação** Python (Futuro), Ansible (Futuro)
+- **Network Simulation** Packet Tracer
+- **Operating Systems** Linux CLI (In progress), Windows Server (Planned)
+- **Monitoring** Wireshark Basic packet analysis (In progress)
+- **Automation** Python (In progress), Ansible (In progress)
 
-## Projetos e Topologias em Destaque
+## Highlighted Projects & Topologies
 
-## Estrutura do Repositório
+## Repository Structure
 ```bash
 .
-├── CCNA-Core/
+├── CCNA-Core/  #Hands-on labs organized by official CCNA curriculum topics
 │   └── README.md
-├── Packet-Analysis/
+├── Packet-Analysis/   #Packet captures and protocol studies using Wireshark
 │    └── README.md
-├── docs/
+├── docs/   #My cheat sheets and network topology diagrams
 │   ├── README.md
-│   ├── cheat-sheets/
-│   │   ├── config-inicial.md
+│   ├── cheat-sheets/   #Quick reference commands and configurations
+│   │   ├── initial-config.md
 │   │   ├── device-management.md
-│   │   ├── roteador.md
+│   │   ├── router.md
 │   │   ├── subnetting.md
 │   │   ├── switch-l2.md
 │   │   └── switch-l3.md
-│   └── topologias/
-│       ├── topologias-campus.md
-│       └── topologias-projetos.md
+│   │ 
+│   └── topologies/       # Network and architecture diagrams
+│       ├── campus-topologies.md
+│       └── project-topologies.md
 ├── .gitignore
 ├── LICENSE
 ├── README.md
 
 ```
-- `/CCNA-Core`: Laboratórios práticos divididos por tópicos do currículo oficial
-- `/Packet-Analysis`: Capturas e estudos de protocolos via Wireshark
-- `/docs`: Meus "Cheat Sheets" e diagramas de topologias
- > - `cheat-sheets/`: Comandos e configurações rápidas
- > - `topologias/`: Diagramas de rede e arquitetura
 
-## Contato
+## Contact
 - LinkedIn: 
 - Email: jhonatafurtadotech@gmail.com
