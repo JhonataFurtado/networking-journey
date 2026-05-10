@@ -1,27 +1,26 @@
-# 📚 Documentação e Guias Rápidos (Cheat Sheets)
+# 📚 Documentation and Quick Guides (Cheat Sheets)
 
-Nesta seção, organizo conhecimento teórico e prático em guias de consulta rápida
-A seção visa padronizar configurações e troubleshooting em cenários reais
+In this section, I organize theoretical and practical knowledge into quick reference guides.
+The goal is to standardize configurations and troubleshooting in real-world scenarios.
 
 ---
 
-## Guias de configuração
-* [Configuração Inicial de Dispositivos](cheat-sheets/config-inicial.md): Comandos básicos para switches e roteadores
-* [Configuração Focada em Roteador](cheat-sheets/roteador.md): Comandos de configuração básica e avançada em roteadores
-* [Configuração Focada em Switch L3](cheat-sheets/switch-l3.md): Comandos de configuração básica e avançada em switches L3
-* [Configuração Focada em Switch L2](cheat-sheets/switch-l2.md): Comandos de configuração básica e avançada em switches L2
-* [Subnetting Cheat Sheet](cheat-sheets/subnetting.md): Tabela de referência rápida para máscaras VLSM
-* [Device-Management](cheat-sheets/device-management.md): Configuração de gerenciamento de dispositivos Cisco (Switch and Router)
+## Configuration Guides
+* [Initial Device Configuration](cheat-sheets/initial-config.md): Basic commands for switches and routers
+* [Router Focused Configuration](cheat-sheets/router.md): Basic and advanced configuration commands for routers
+* [Layer 3 Switch Configuration](cheat-sheets/switch-l3.md): Basic and advanced configuration commands for L3 switches
+* [Layer 2 Switch Configuration](cheat-sheets/switch-l2.md): Basic and advanced configuration commands for L2 switches
+* [Subnetting Cheat Sheet](cheat-sheets/subnetting.md): Quick reference table for VLSM subnet masks
+* [Device Management](cheat-sheets/device-management.md): Cisco device management configuration (switches and routers)
 
-## Topologias e Diagramas
-* [Arquitetura de Campus](topologias/topologias-campus.md): Diagramas de camada de Acesso, Distribuição e Core
-* [Arquitetura de Projetos](topologias/topologias-projetos.md): Diagramas de projetos
+## Topologies and Diagrams
+* [Campus Architecture](topologias/campus-topologies.md): Access, Distribution, and Core layer diagrams
+* [Project Architectures](topologias/project-topologies.md): Project-based network diagrams
 
 ## Checklists
-- [ ] Checklist de Segurança (Senhas, SSH, Port-Security, ACLs)
-- [ ] Checklist de Conectividade IP (Gateway, Rotas Estáticas ou Dinâmicas)
-- [ ] Checklist de segmentação (VLANS, Trunking)
-- [ ] Checklist de VLSM (Sub-rede, máscara)
-
+- [ ] Security Checklist: Passwords, SSH, Port Security, ACLs
+- [ ] IP Connectivity Checklist: Gateway, static or dynamic routes
+- [ ] Segmentation Checklist: VLANs, trunking
+- [ ] VLSM Checklist: Subnet and subnet mask
 ---
-> "A documentação é a diferença entre um técnico que tenta e um engenheiro que executa."
+> "Documentation is the difference between a technician who tries and an engineer who delivers."
