@@ -1,6 +1,6 @@
 <img width="1600" height="428" alt="ybersecurity icon (1)" src="https://github.com/user-attachments/assets/e73ff9ea-e7ab-49a2-afe3-d4715a3d181b" />
 
-# 🌐 Networking Journey | Jhonata Furtado | Portifolio
+# 🌐 Networking Journey | Jhonata Furtado | Portfolio
 ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
