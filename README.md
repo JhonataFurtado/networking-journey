@@ -31,30 +31,6 @@ I am an infrastructure and networking enthusiast focused on mastering Cisco netw
 ## Highlighted Projects & Topologies
 
 ## Repository Structure
-```bash
-.
-├── CCNA-Core/  #Hands-on labs organized by official CCNA curriculum topics
-│   └── README.md
-├── Packet-Analysis/   #Packet captures and protocol studies using Wireshark
-│    └── README.md
-├── docs/   #My cheat sheets and network topology diagrams
-│   ├── README.md
-│   ├── cheat-sheets/   #Quick reference commands and configurations
-│   │   ├── initial-config.md
-│   │   ├── device-management.md
-│   │   ├── router.md
-│   │   ├── subnetting.md
-│   │   ├── switch-l2.md
-│   │   └── switch-l3.md
-│   │ 
-│   └── topologies/       # Network and architecture diagrams
-│       ├── campus-topologies.md
-│       └── project-topologies.md
-├── .gitignore
-├── LICENSE
-├── README.md
-
-```
 
 ## Contact
 - LinkedIn: 
